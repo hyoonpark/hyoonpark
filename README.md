@@ -5,7 +5,7 @@
 ### **🥰Contact🥰**
 <p align="center">
   <a href="https://hyoonpark.github.io"><img src="https://img.shields.io/badge/TechBlog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://hyoonpark.github.io"/></a>
-  <a href="mailto:the.day0619@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=the.day0619@gmail.com"/></a>&nbsp
+  <a href="mailto:the.day0619@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=the.day0619@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/hyoonpark/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyoonpark/"/></a>&nbsp
 </p><br/>
 
