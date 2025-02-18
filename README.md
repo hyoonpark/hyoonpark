@@ -22,6 +22,7 @@
 <p>
 <img src="https://img.shields.io/badge/Java-ec2025?style=flat-square&logoColor=white&logo=openjdk"/>
 <img src="https://img.shields.io/badge/Python-3771a2?style=flat-square&logoColor=white&logo=PYTHON"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logoColor=white&logo=kotlin"/>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=white&logo=JAVASCRIPT"/>
 </p>
 
