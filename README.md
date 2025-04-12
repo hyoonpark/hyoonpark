@@ -10,9 +10,9 @@
 </p><br/>
 
 ### **📜Experience📜**<br>
+AI careers school (2025.01 ~ 2025.02)<br>
 신세계I&C 스파로스 아카데미 4기 (2024.02 ~ 2024.07)<br>
 삼성 청년 SW 아카데미 9기 (2023.01 ~ 2023.12)<br>
-AI careers school (2025.01 ~ 2025.02)<br>
 
 <br>
 <p>
