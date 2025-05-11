@@ -33,7 +33,7 @@ AI careers school (2025.01 ~ 2025.02)<br>
 <img src="https://img.shields.io/badge/springcloud-6DB33F?style=flat-square&logoColor=white&logo=spring"/>
 <img src="https://img.shields.io/badge/Django-092e20?style=flat-square&logoColor=white&logo=DJANGO"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
 
 **📓DB<br>**
