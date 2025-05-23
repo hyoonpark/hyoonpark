@@ -61,6 +61,13 @@ AI careers school (2025.01 ~ 2025.02)<br>
 <img src="https://img.shields.io/badge/gerrit-eeeeee?style=flat-square&logo=gerrit&logoColor=black"/>
 </p></br>
 
+### 🔥Studying🔥
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+</p>
+
 ### **📈GitHubStats📈**<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyoonpark&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoonpark&layout=compact&theme=holi)
